@@ -112,7 +112,6 @@ java Movie.java
 | Resource | Link |
 |---|---|
 | 📃 Full Part 1 playlist | [tinyurl.com/java17fundamental](https://tinyurl.com/java17fundamental) |
-| ▶️ Video 1 — How Java Works Under the Hood | [youtu.be/QXckMTL5t68](https://youtu.be/QXckMTL5t68) |
 | 💻 Source code (this repo) | [github.com/adcwithmounir/Java17_Part_1_Fundamentals_Core_Syntax](https://github.com/adcwithmounir/Java17_Part_1_Fundamentals_Core_Syntax) |
 
 ---
