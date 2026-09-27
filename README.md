@@ -45,7 +45,7 @@ All examples are built around a **streaming-platform project** (`Movie`, `Series
 | 4 | [`Part_1_4_Java_Fundamentals_Core_Syntax`](./Part_1_4_Java_Fundamentals_Core_Syntax) | **Organizing Code with Packages & Imports** | Packages, imports, wildcards, naming conflicts, compiling packaged code, classpath & JARs | ✅ |
 | 5 | [`Part_1_5_Java_Fundamentals_Core_Syntax`](./Part_1_5_Java_Fundamentals_Core_Syntax) | **Bringing Your Class to Life** | Constructors, reading & writing fields, instance initializers, order of initialization | ✅ |
 | 6 | [`Part_1_6_Java_Fundamentals_Core_Syntax`](./Part_1_6_Java_Fundamentals_Core_Syntax) | **Primitives, References & Data Types** | The 8 primitives, literals & underscores, number bases, reference types, wrappers, text blocks | ✅ |
-| 7 | — | **Declaring Variables** | Identifier rules, naming conventions, multiple declarations | 🔜 |
+| 7 | NO LABS | **Declaring Variables** | Identifier rules, naming conventions, multiple declarations | ✅ |
 | 8 | — | **Giving Variables Their First Value** | Local vs instance vs class variables, default values, `final`, `var` | 🔜 |
 | 9 | — | **Managing Variable Scope** | Block scope, tracing scope, local / instance / class lifetimes | 🔜 |
 | 10 | — | **Destroying Objects & Memory Management** | The heap, references vs objects, garbage collection eligibility | 🔜 |
