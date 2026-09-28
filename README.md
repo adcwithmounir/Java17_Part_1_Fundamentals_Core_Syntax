@@ -9,8 +9,6 @@
 [![Java](https://img.shields.io/badge/Java-SE%2017-58A6FF?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/projects/jdk/17/)
 [![YouTube](https://img.shields.io/badge/Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://tinyurl.com/java17fundamental)
 
-**▶️ [Watch the full Part 1 playlist on YouTube](https://tinyurl.com/java17fundamental)**
-
 </div>
 
 ---
