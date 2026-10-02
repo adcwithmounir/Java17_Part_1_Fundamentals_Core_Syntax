@@ -47,7 +47,7 @@ All examples are built around a **streaming-platform project** (`Movie`, `Series
 | 8 | [`Part_1_8_Java_Fundamentals_Core_Syntax`](./Part_1_8_Java_Fundamentals_Core_Syntax) | **Giving Variables Their First Value** | Local vs instance vs class variables, default values, `final`, `var` | ✅ |
 | 9 | [`Part_1_9_Java_Fundamentals_Core_Syntax`](./Part_1_9_Java_Fundamentals_Core_Syntax) | **Managing Variable Scope** | Block scope, tracing scope, local / instance / class lifetimes | ✅ |
 | 10 | NO LABS (see the video) | **Destroying Objects & Memory Management** | The heap, references vs objects, garbage collection eligibility | ✅ |
-| 11 | — | **Chapter Review & Practice Questions** | Summary, exam essentials and OCP-style practice questions | 🔜 |
+| 11 | NO LABS (see the video) | **Chapter Review & Practice Questions** | Summary, exam essentials and OCP-style practice questions | ✅ |
 
 > ✅ Available · 🔜 Coming soon — the repo is updated as new videos are released.
 
