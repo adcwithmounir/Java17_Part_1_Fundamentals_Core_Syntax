@@ -120,14 +120,14 @@ This repository is **Part 1** of a complete Java SE 17 course. Each part has its
 
 | Part | Topic | Status |
 |:-:|---|:-:|
-| **1** | **Java Fundamentals / Core Syntax** | 🟢 In progress |
+| **1** | **Java Fundamentals / Core Syntax** | ✅ |
 | 2 | Expressions & Computations | 🔜 |
 | 3 | Control Flow & Conditionals | 🔜 |
 | 4 | Essential Java Libraries | 🔜 |
 | 5 | Functions & Parameters | 🔜 |
 | 6 | Object-Oriented Basics | 🔜 |
 | 7 | Interfaces & Abstract Types | 🔜 |
-| 8 | Functional Programming | 🔜 |
+| 8 | Functional Programming | 🟢 In progress |
 | 9 | Data Structures & Type Safety | 🔜 |
 | 10 | Data Processing Pipelines | 🔜 |
 | 11 | Error Handling & i18n | 🔜 |
