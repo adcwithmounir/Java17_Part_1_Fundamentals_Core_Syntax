@@ -120,7 +120,7 @@ This repository is **Part 1** of a complete Java SE 17 course. Each part has its
 
 | Part | Topic | Status |
 |:-:|---|:-:|
-| **1** | **Java Fundamentals / Core Syntax** | ✅ |
+| 1 | [Java Fundamentals / Core Syntax](https://github.com/adcwithmounir/Java17_Part_1_Fundamentals_Core_Syntax) | ✅ |
 | 2 | Expressions & Computations | 🔜 |
 | 3 | Control Flow & Conditionals | 🔜 |
 | 4 | Essential Java Libraries | 🔜 |
